@@ -1,0 +1,5 @@
+build:
+  docker:
+    Mr-Kannadiga: Dockerfile
+run:
+  OfficialSameer: python3 -m Kannadiga
